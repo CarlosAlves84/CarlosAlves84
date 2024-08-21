@@ -29,4 +29,4 @@ Atualmente sou um estudante de Desenvolvimento de Sistemas  |  [UniCesumar](http
 
 
 
-![snake gif](https://github.com/CarlosAlves84/CarlosAlves84/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra]( https://raw.githubusercontent.com/CarlosAlves84/CarlosAlves84/output/github-contribution-grid-snake-dark.svg )
