@@ -1,4 +1,4 @@
-# 👋 Olá, pode de chamar de Carlos!
+# 👋 Olá, pode me chamar de Carlos!
 Atualmente sou um estudante de Desenvolvimento de Sistemas  |  [UniCesumar](https://inscricoes.unicesumar.edu.br/)
 
 ##
